@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"/dP6":function(t,n,e){"use strict";e.r(n);e("q1tI");var a=e("aD51");n.default=function(t){var n=t.data;return Object(a.b)("div",null,Object(a.b)("h1",null,n.markdownRemark.frontmatter.title),Object(a.b)("div",{dangerouslySetInnerHTML:{__html:n.markdownRemark.html}}))}}}]);
+//# sourceMappingURL=component---src-templates-page-tsx-8de75e65dbdada8d9808.js.map
